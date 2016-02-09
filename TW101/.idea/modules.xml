@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Diamond_Exercises/Diamond_Exercises.iml" filepath="$PROJECT_DIR$/Diamond_Exercises/Diamond_Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FizzBuzz_Exercise/FizzBuzz_Exercise.iml" filepath="$PROJECT_DIR$/FizzBuzz_Exercise/FizzBuzz_Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prime_Factors_Exercise/Prime_Factors_Exercise.iml" filepath="$PROJECT_DIR$/Prime_Factors_Exercise/Prime_Factors_Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TW101.iml" filepath="$PROJECT_DIR$/TW101.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Triangle_exercises/Triangle_exercises.iml" filepath="$PROJECT_DIR$/Triangle_exercises/Triangle_exercises.iml" />
+    </modules>
+  </component>
+</project>
